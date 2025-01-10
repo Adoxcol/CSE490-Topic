@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  10 JAN 2025 16:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  10 JAN 2025 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -346,7 +346,7 @@ Package pdftex.def Info: feedback_anon.png  used on input line 249.
 File: research_workflow.png Graphic file (type png)
 <use research_workflow.png>
 Package pdftex.def Info: research_workflow.png  used on input line 301.
-(pdftex.def)             Requested size: 201.60077pt x 143.17535pt.
+(pdftex.def)             Requested size: 412.80157pt x 293.18501pt.
 <data_flow.png, id=26, 1136.245pt x 807.015pt>
 File: data_flow.png Graphic file (type png)
 <use data_flow.png>
@@ -354,29 +354,39 @@ Package pdftex.def Info: data_flow.png  used on input line 309.
 (pdftex.def)             Requested size: 201.60077pt x 143.17535pt.
 
 
-[5 <./feedback_report.png (PNG copy)> <./feedback_anon.png> <./research_workflow.png>]
+[5 <./feedback_report.png (PNG copy)> <./feedback_anon.png>]
 
-<features.png, id=32, 594.72188pt x 276.28218pt>
+<features.png, id=31, 594.72188pt x 276.28218pt>
 File: features.png Graphic file (type png)
 <use features.png>
 Package pdftex.def Info: features.png  used on input line 354.
-(pdftex.def)             Requested size: 252.0pt x 117.06635pt.
-<faculty.png, id=33, 769.37437pt x 328.22626pt>
+(pdftex.def)             Requested size: 516.0pt x 239.72275pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<faculty.png, id=32, 769.37437pt x 328.22626pt>
 File: faculty.png Graphic file (type png)
 <use faculty.png>
 Package pdftex.def Info: faculty.png  used on input line 361.
-(pdftex.def)             Requested size: 252.0pt x 107.50865pt.
+(pdftex.def)             Requested size: 516.0pt x 220.14583pt.
 
-
-[6 <./data_flow.png> <./features.png (PNG copy)> <./faculty.png (PNG copy)>]
-
-
-
-[7]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[8] (./paper.bbl
+[6 <./research_workflow.png> <./data_flow.png>]
+
+
+
+[7 <./features.png (PNG copy)> <./faculty.png (PNG copy)>]
+
+
+
+[8]
+
+
+
+[9] (./paper.bbl
 Overfull \hbox (36.08548pt too wide) in paragraph at lines 74--76
 \OT1/ptm/m/n/8 https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1466926 
  []
@@ -397,7 +407,7 @@ Before submitting the final camera ready copy, remember to:
 
 
 
-[9
+[10
 
 ] (./paper.aux)
  ***********
@@ -410,18 +420,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4402 strings out of 473330
- 68942 string characters out of 5723877
- 486619 words of memory out of 5000000
- 27488 multiletter control sequences out of 15000+600000
+ 4404 strings out of 473330
+ 69000 string characters out of 5723877
+ 486903 words of memory out of 5000000
+ 27490 multiletter control sequences out of 15000+600000
  597309 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,10n,65p,1416b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (9 pages, 463015 bytes).
+Output written on paper.pdf (10 pages, 463402 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
