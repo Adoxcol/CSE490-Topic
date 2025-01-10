@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  10 JAN 2025 16:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  10 JAN 2025 22:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"f:/Latex/CSE490 Topic/paper.tex"
-(f:/Latex/CSE490 Topic/paper.tex
+**"f:/Latex/Group1/Group1_Enhanced Course Feedback.tex"
+(f:/Latex/Group1/Group1_Enhanced Course Feedback.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
 (c:/texlive/2024/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
@@ -252,8 +252,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box58
-) (./paper.aux)
-\openout1 = `paper.aux'.
+) (./Group1_Enhanced Course Feedback.aux)
+\openout1 = `"Group1_Enhanced Course Feedback.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -358,9 +358,12 @@ File: features.png Graphic file (type png)
 Package pdftex.def Info: features.png  used on input line 354.
 (pdftex.def)             Requested size: 516.0pt x 239.72275pt.
 
+
+[6 <./research_workflow.png> <./data_flow.png>]
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<faculty.png, id=32, 769.37437pt x 328.22626pt>
+<faculty.png, id=37, 769.37437pt x 328.22626pt>
 File: faculty.png Graphic file (type png)
 <use faculty.png>
 Package pdftex.def Info: faculty.png  used on input line 361.
@@ -370,19 +373,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[6 <./research_workflow.png> <./data_flow.png>]
+
+
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[7 <./features.png (PNG copy)> <./faculty.png (PNG copy)>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[8]
+[8 <./features.png (PNG copy)> <./faculty.png (PNG copy)>]
 
 
 
-[9] (./paper.bbl
+[9] (./Group1_Enhanced Course Feedback.bbl
 Overfull \hbox (36.08548pt too wide) in paragraph at lines 77--79
 \OT1/ptm/m/n/8 https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1466926 
  []
@@ -405,22 +412,22 @@ Before submitting the final camera ready copy, remember to:
 
 [10
 
-] (./paper.aux)
+] (./Group1_Enhanced Course Feedback.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4405 strings out of 473330
- 69016 string characters out of 5723877
- 486871 words of memory out of 5000000
- 27491 multiletter control sequences out of 15000+600000
+ 4408 strings out of 473330
+ 69553 string characters out of 5723877
+ 486685 words of memory out of 5000000
+ 27494 multiletter control sequences out of 15000+600000
  597309 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,10n,65p,1416b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,1436b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (10 pages, 463821 bytes).
+Output written on "Group1_Enhanced Course Feedback.pdf" (10 pages, 464573 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream

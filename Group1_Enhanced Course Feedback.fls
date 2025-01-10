@@ -1,9 +1,9 @@
-PWD f:/Latex/CSE490 Topic
+PWD f:/Latex/Group1
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT f:/Latex/CSE490 Topic/paper.tex
-OUTPUT paper.log
+INPUT f:/Latex/Group1/Group1_Enhanced Course Feedback.tex
+OUTPUT Group1_Enhanced Course Feedback.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -100,10 +100,10 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./paper.aux
-INPUT ./paper.aux
-INPUT paper.aux
-OUTPUT paper.aux
+INPUT ./Group1_Enhanced Course Feedback.aux
+INPUT ./Group1_Enhanced Course Feedback.aux
+INPUT Group1_Enhanced Course Feedback.aux
+OUTPUT Group1_Enhanced Course Feedback.aux
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -113,7 +113,7 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
-OUTPUT paper.pdf
+OUTPUT Group1_Enhanced Course Feedback.pdf
 INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -204,12 +204,12 @@ INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT ./paper.bbl
-INPUT ./paper.bbl
-INPUT paper.bbl
+INPUT ./Group1_Enhanced Course Feedback.bbl
+INPUT ./Group1_Enhanced Course Feedback.bbl
+INPUT Group1_Enhanced Course Feedback.bbl
 INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT paper.aux
+INPUT Group1_Enhanced Course Feedback.aux
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb

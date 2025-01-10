@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: paper.aux
+The top-level auxiliary file: Group1_Enhanced Course Feedback.aux
 The style file: IEEEtran.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -13,44 +13,44 @@ Database file #1: references.bib
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 13 entries,
+You've used 14 entries,
             4087 wiz_defined-function locations,
-            900 strings with 10216 characters,
-and the built_in function-call counts, 9141 in all, are:
-= -- 761
-> -- 207
-< -- 62
-+ -- 111
-- -- 38
-* -- 457
-:= -- 1461
-add.period$ -- 27
-call.type$ -- 13
+            910 strings with 10472 characters,
+and the built_in function-call counts, 9895 in all, are:
+= -- 820
+> -- 219
+< -- 71
++ -- 119
+- -- 39
+* -- 487
+:= -- 1563
+add.period$ -- 29
+call.type$ -- 14
 change.case$ -- 15
-chr.to.int$ -- 132
-cite$ -- 13
-duplicate$ -- 662
-empty$ -- 707
-format.name$ -- 49
-if$ -- 2084
+chr.to.int$ -- 156
+cite$ -- 14
+duplicate$ -- 710
+empty$ -- 777
+format.name$ -- 50
+if$ -- 2268
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 121
-newline$ -- 80
-num.names$ -- 15
-pop$ -- 284
+int.to.str$ -- 14
+missing$ -- 127
+newline$ -- 83
+num.names$ -- 16
+pop$ -- 301
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 704
+skip$ -- 763
 stack$ -- 0
-substring$ -- 339
-swap$ -- 531
-text.length$ -- 18
+substring$ -- 395
+swap$ -- 574
+text.length$ -- 19
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 13
+type$ -- 14
 warning$ -- 0
-while$ -- 33
-width$ -- 15
-write$ -- 168
+while$ -- 38
+width$ -- 16
+write$ -- 176
