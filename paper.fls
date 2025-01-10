@@ -130,6 +130,8 @@ INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -144,8 +146,6 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT ./feedback_practices.png
 INPUT ./feedback_practices.png
 INPUT ./feedback_practices.png
@@ -161,12 +161,12 @@ INPUT ./feedback_report.png
 INPUT ./feedback_report.png
 INPUT ./feedback_report.png
 INPUT ./feedback_report.png
-INPUT ./feedback_anon.png
-INPUT ./feedback_anon.png
-INPUT ./feedback_anon.png
-INPUT ./feedback_anon.png
-INPUT ./feedback_anon.png
 INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT ./feedback_anon.png
+INPUT ./feedback_anon.png
+INPUT ./feedback_anon.png
+INPUT ./feedback_anon.png
+INPUT ./feedback_anon.png
 INPUT ./research_workflow.png
 INPUT ./research_workflow.png
 INPUT ./research_workflow.png

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  10 JAN 2025 15:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  10 JAN 2025 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -298,80 +298,88 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ]
 
+LaTeX Warning: Citation `mdpi2024personalized' on page 2 undefined on input line 79.
+
+
+
 
 
 [2]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 142.
- (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 160.
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 142.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 160.
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-
-
 [3]
+
 <feedback_practices.png, id=17, 770.88pt x 578.16pt>
 File: feedback_practices.png Graphic file (type png)
 <use feedback_practices.png>
-Package pdftex.def Info: feedback_practices.png  used on input line 196.
+Package pdftex.def Info: feedback_practices.png  used on input line 214.
 (pdftex.def)             Requested size: 201.60077pt x 151.20024pt.
 <feedback_action.png, id=18, 770.88pt x 578.16pt>
 File: feedback_action.png Graphic file (type png)
 <use feedback_action.png>
-Package pdftex.def Info: feedback_action.png  used on input line 208.
+Package pdftex.def Info: feedback_action.png  used on input line 226.
 (pdftex.def)             Requested size: 201.60077pt x 151.20024pt.
 <feedback_report.png, id=19, 770.88pt x 578.16pt>
 File: feedback_report.png Graphic file (type png)
 <use feedback_report.png>
-Package pdftex.def Info: feedback_report.png  used on input line 219.
+Package pdftex.def Info: feedback_report.png  used on input line 237.
 (pdftex.def)             Requested size: 201.60077pt x 151.20024pt.
 
 
-<feedback_anon.png, id=20, 578.16pt x 433.62pt>
+[4 <./feedback_practices.png (PNG copy)> <./feedback_action.png (PNG copy)>]
+<feedback_anon.png, id=23, 578.16pt x 433.62pt>
 File: feedback_anon.png Graphic file (type png)
 <use feedback_anon.png>
-Package pdftex.def Info: feedback_anon.png  used on input line 231.
+Package pdftex.def Info: feedback_anon.png  used on input line 249.
 (pdftex.def)             Requested size: 201.60077pt x 151.20026pt.
 
 
-[4 <./feedback_practices.png (PNG copy)> <./feedback_action.png (PNG copy)> <./feedback_report.png (PNG copy)>]
 <research_workflow.png, id=25, 1136.245pt x 807.015pt>
 File: research_workflow.png Graphic file (type png)
 <use research_workflow.png>
-Package pdftex.def Info: research_workflow.png  used on input line 283.
+Package pdftex.def Info: research_workflow.png  used on input line 301.
 (pdftex.def)             Requested size: 201.60077pt x 143.17535pt.
 <data_flow.png, id=26, 1136.245pt x 807.015pt>
 File: data_flow.png Graphic file (type png)
 <use data_flow.png>
-Package pdftex.def Info: data_flow.png  used on input line 291.
+Package pdftex.def Info: data_flow.png  used on input line 309.
 (pdftex.def)             Requested size: 201.60077pt x 143.17535pt.
 
 
+[5 <./feedback_report.png (PNG copy)> <./feedback_anon.png> <./research_workflow.png>]
 
-
-[5 <./feedback_anon.png> <./research_workflow.png> <./data_flow.png>]
-<features.png, id=33, 594.72188pt x 276.28218pt>
+<features.png, id=32, 594.72188pt x 276.28218pt>
 File: features.png Graphic file (type png)
 <use features.png>
-Package pdftex.def Info: features.png  used on input line 327.
+Package pdftex.def Info: features.png  used on input line 354.
 (pdftex.def)             Requested size: 252.0pt x 117.06635pt.
-<faculty.png, id=34, 769.37437pt x 328.22626pt>
+<faculty.png, id=33, 769.37437pt x 328.22626pt>
 File: faculty.png Graphic file (type png)
 <use faculty.png>
-Package pdftex.def Info: faculty.png  used on input line 334.
+Package pdftex.def Info: faculty.png  used on input line 361.
 (pdftex.def)             Requested size: 252.0pt x 107.50865pt.
 
 
-
-
-[6 <./features.png (PNG copy)> <./faculty.png (PNG copy)>]
+[6 <./data_flow.png> <./features.png (PNG copy)> <./faculty.png (PNG copy)>]
 
 
 
-[7] (./paper.bbl
+[7]
+
+
+
+[8] (./paper.bbl
+Overfull \hbox (36.08548pt too wide) in paragraph at lines 74--76
+\OT1/ptm/m/n/8 https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1466926 
+ []
 
 )
 
@@ -387,25 +395,33 @@ Before submitting the final camera ready copy, remember to:
 
 
 
-[8] (./paper.aux)
+
+
+[9
+
+] (./paper.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 4397 strings out of 473330
- 68800 string characters out of 5723877
- 481342 words of memory out of 5000000
- 27483 multiletter control sequences out of 15000+600000
+ 4402 strings out of 473330
+ 68942 string characters out of 5723877
+ 486619 words of memory out of 5000000
+ 27488 multiletter control sequences out of 15000+600000
  597309 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,10n,65p,2157b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,1416b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (8 pages, 458930 bytes).
+Output written on paper.pdf (9 pages, 463015 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
